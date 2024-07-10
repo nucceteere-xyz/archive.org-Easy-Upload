@@ -1,6 +1,10 @@
 [<img alt="github" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/github_vector.svg">](https://github.com/nucceteere-xyz/archive.org-Easy-Upload)
 [<img alt="git" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/git_vector.svg">](https://replit.com/@EngurRuzgar/Upload-to-Archiveorg)
 
+> [!INFO]
+> We can't see the info you type into the program.
+> As you can see for yourself, it doesn't connect anywhere except the archive.org API
+
 ## What is this?
 This is a Python script for uploading files to archive.org
 ### How does it work?
